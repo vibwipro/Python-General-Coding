@@ -1,4 +1,4 @@
-License under [MIT License](LICENSE)
+########   License under [MIT License](LICENSE)
 
 import matplotlib.pyplot as plt
 
