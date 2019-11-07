@@ -1,3 +1,5 @@
+License under [MIT License](LICENSE)
+
 import matplotlib.pyplot as plt
 
 #########   Draw pie chart to track down home expenses
